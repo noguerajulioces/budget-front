@@ -1,0 +1,21 @@
+$white-color: #FFFFFF;
+$black-color: #000000;
+$blue-color: #02A0FC;
+$sky-blue-color: #CCF8FE;
+$green-color: #34B53A;
+$sky-green-color: #E2FBD7;
+$red-color: #FF3A29;
+$sky-red-color: #FFE5D3;
+$yellow-color: #FFB200;
+$sky-yellow-color: #FFF5CC;
+$purple-color: #4339F2;
+$background-color: #E5E5E5;
+
+
+html, body, #root {
+    margin: 0;
+    padding: 0;
+    background-color: $background-color;
+    height: 100%;
+    width: 100%;
+}
